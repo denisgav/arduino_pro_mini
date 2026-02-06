@@ -5093,16 +5093,6 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 109.22) (xy 87.63 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6480e007-7d55-4ecc-b1c6-43fd04246cf3")
-	)
-	(wire
-		(pts
 			(xy 82.55 33.02) (xy 92.71 33.02)
 		)
 		(stroke
@@ -5190,6 +5180,16 @@
 			(type default)
 		)
 		(uuid "6a42f106-7bc2-4c41-9959-c7e63e9b40b7")
+	)
+	(wire
+		(pts
+			(xy 81.28 111.76) (xy 87.63 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6cef9d21-d701-46aa-8b37-d0d1e5cff0fa")
 	)
 	(wire
 		(pts
@@ -5593,16 +5593,6 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 111.76) (xy 87.63 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a0928e35-566a-4de1-b011-7dcb8131c8c1")
-	)
-	(wire
-		(pts
 			(xy 167.64 85.09) (xy 172.72 85.09)
 		)
 		(stroke
@@ -5980,6 +5970,16 @@
 			(type default)
 		)
 		(uuid "e10e3fa3-e818-403a-9456-7e21e95ed8c1")
+	)
+	(wire
+		(pts
+			(xy 81.28 109.22) (xy 87.63 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e177da92-c0db-4139-83b4-d5f8b048aea0")
 	)
 	(wire
 		(pts
@@ -7069,7 +7069,7 @@
 	)
 	(global_label "D1_TX"
 		(shape input)
-		(at 81.28 111.76 180)
+		(at 81.28 109.22 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7079,7 +7079,7 @@
 		)
 		(uuid "9db4f88c-7167-4fd7-9cf4-6060e76375eb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 72.6706 111.76 0)
+			(at 72.6706 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7509,7 +7509,7 @@
 	)
 	(global_label "D0_RX"
 		(shape input)
-		(at 81.28 109.22 180)
+		(at 81.28 111.76 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7519,7 +7519,7 @@
 		)
 		(uuid "fc50146c-4b92-42f0-8bb5-405b9f6cfa8c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 72.3682 109.22 0)
+			(at 72.3682 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
