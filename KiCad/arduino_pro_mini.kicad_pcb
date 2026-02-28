@@ -556,6 +556,19 @@
 				)
 			)
 		)
+		(property "Manufacturer Part Number" "X322516MOB4SI"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5a425273-77f4-49d0-b550-4ce86e225632")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Crystal*")
 		(path "/7f31d75a-d6b7-4865-bd71-debe4fdcadc4")
 		(sheetname "/")
@@ -723,7 +736,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -736,7 +749,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603FR-071KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -931,7 +944,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata Electronics"
+		(property "Manufacturer" "YAGEO"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -950,6 +963,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a4e83a94-abfd-4373-80b1-dcebe81a4d03")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "CC0603JRNPO9BN150"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "389c62da-38d6-44bd-9382-1cf9cc8cf422")
 			(effects
 				(font
 					(size 1 1)
@@ -1354,6 +1380,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1ee06e88-b8ec-421f-b949-9180611a0033")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "TSA063G50-250"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "be987edb-9ec3-4a28-aef3-4ab47dbe35f3")
 			(effects
 				(font
 					(size 1 1)
@@ -1785,6 +1824,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "42d559ab-1f2e-4a14-a9fa-be65e7a9cd09")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "MICROCHIP"
+			(at 0 0 315)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "99806b12-e844-43b4-bcac-c5f4a9ea26fc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "ATMEGA328P-AU"
+			(at 0 0 315)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f185ca5d-e951-4384-84f1-86a2ffd01d10")
 			(effects
 				(font
 					(size 1 1)
@@ -2525,7 +2590,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Murata Electronics"
+		(property "Manufacturer" "YAGEO"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2544,6 +2609,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7f131218-419d-4ca0-8864-e5e89aaf9a8b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "CC0603JRNPO9BN150"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5eb3bd14-7463-43bb-8a8b-bca48a25b954")
 			(effects
 				(font
 					(size 1 1)
@@ -2939,7 +3017,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2952,7 +3030,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603FR-071KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3147,7 +3225,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3160,7 +3238,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603FR-071KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3355,7 +3433,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3368,7 +3446,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603FR-071KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3563,7 +3641,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "YAGEO"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3576,7 +3654,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" "CL05B104KO5NNNC"
+		(property "Manufacturer Part Number" "CC0805KRX7R9BB104"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3771,7 +3849,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3784,7 +3862,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Manufacturer Part Number" "RC0603FR-071KL"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4287,6 +4365,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Manufacturer Part Number" "TAJA106K016RNJ"
+			(at 0 0 315)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1521f68c-09c8-45d3-836d-eae60e608786")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "CP_*")
 		(path "/b5668ea2-d290-4790-87d5-85fa07f011ba")
 		(sheetname "/")
@@ -4519,6 +4611,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "bd42de34-16d1-4d78-beba-c2dfeeaee291")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer" "TI"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2452d1c4-aaea-4300-9231-22f75bdfd3eb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer Part Number" "UA78M05CDCYR"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "06d86003-6661-42e8-8438-a35c3184baed")
 			(effects
 				(font
 					(size 1 1)
@@ -4778,7 +4898,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "YAGEO"
 			(at 0 0 315)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -4792,7 +4912,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer Part Number" "CL05B104KO5NNNC"
+		(property "Manufacturer Part Number" "CC0805KRX7R9BB104"
 			(at 0 0 315)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -5667,7 +5787,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "YAGEO"
 			(at 0 0 315)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -5681,7 +5801,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer Part Number" "CL05B104KO5NNNC"
+		(property "Manufacturer Part Number" "CC0805KRX7R9BB104"
 			(at 0 0 315)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -5887,7 +6007,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "YAGEO"
 			(at 0 0 135)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -5901,7 +6021,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer Part Number" "CL05B104KO5NNNC"
+		(property "Manufacturer Part Number" "CC0805KRX7R9BB104"
 			(at 0 0 135)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -6107,7 +6227,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "YAGEO"
 			(at 0 0 315)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -6121,7 +6241,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer Part Number" "CL05B104KO5NNNC"
+		(property "Manufacturer Part Number" "CC0805KRX7R9BB104"
 			(at 0 0 315)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -6347,6 +6467,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "9fe7611c-01ee-4484-b155-d7e5ef0d0653")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer Part Number" "TAJA106K016RNJ"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "108a01c5-5cd7-409f-8be0-4206804675dc")
 			(effects
 				(font
 					(size 1 1)
@@ -6935,6 +7069,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "6402c529-5c72-411e-9beb-7fcf7cadf39d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer Part Number" "TAJA106K016RNJ"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3274e76c-238c-4a08-b3ac-b68c3d644742")
 			(effects
 				(font
 					(size 1 1)
