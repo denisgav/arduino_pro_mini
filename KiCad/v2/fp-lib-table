@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "atmega328p")(type "KiCad")(uri "${KIPRJMOD}/atmega328p.pretty")(options "")(descr ""))
+)
