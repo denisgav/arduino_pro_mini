@@ -4139,6 +4139,12 @@
 		(uuid "22382b2e-e6cf-4a6c-af68-2d65468710e9")
 	)
 	(junction
+		(at 130.81 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "230387cd-9e4b-442d-b58d-6bf56b777493")
+	)
+	(junction
 		(at 43.18 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4175,12 +4181,6 @@
 		(uuid "3dbed4b6-ce67-4871-99ec-eddddfc97d59")
 	)
 	(junction
-		(at 261.62 133.35)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "430b9f9a-42f2-4a3b-8593-bd74aa8f09c0")
-	)
-	(junction
 		(at 43.18 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4211,10 +4211,10 @@
 		(uuid "53e77ea3-6935-4be7-9b00-d6e987297db1")
 	)
 	(junction
-		(at 86.36 81.28)
+		(at 261.62 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "681d7fd7-2ad6-4c61-b60c-8e11ecefa8b0")
+		(uuid "663fbeaf-1c3b-4c12-851b-2d9fce6d4910")
 	)
 	(junction
 		(at 20.32 81.28)
@@ -4265,12 +4265,6 @@
 		(uuid "ad58a9ef-782b-4804-bb81-b7429606352a")
 	)
 	(junction
-		(at 86.36 38.1)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ae6cd7c1-aee6-4173-9547-e8b973477033")
-	)
-	(junction
 		(at 201.93 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4281,6 +4275,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ce1edb4b-2861-479b-abbc-6e8816fc3ec1")
+	)
+	(junction
+		(at 130.81 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d144415d-12dc-4070-8d21-a4d3a92a2fcc")
 	)
 	(junction
 		(at 24.13 38.1)
@@ -4462,16 +4462,6 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 38.1) (xy 86.36 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1249933f-2813-446e-83bc-30803342a512")
-	)
-	(wire
-		(pts
 			(xy 20.32 38.1) (xy 20.32 40.64)
 		)
 		(stroke
@@ -4479,6 +4469,16 @@
 			(type default)
 		)
 		(uuid "12a0b8d6-f341-4ae8-8c5d-3a41c6350264")
+	)
+	(wire
+		(pts
+			(xy 130.81 81.28) (xy 130.81 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "139f6909-cdc9-4a4a-8112-ab9b5e9484be")
 	)
 	(wire
 		(pts
@@ -4512,7 +4512,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 50.8) (xy 96.52 50.8)
+			(xy 130.81 50.8) (xy 120.65 50.8)
 		)
 		(stroke
 			(width 0)
@@ -4542,7 +4542,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 93.98) (xy 106.68 100.33)
+			(xy 110.49 93.98) (xy 110.49 100.33)
 		)
 		(stroke
 			(width 0)
@@ -4672,7 +4672,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 48.26) (xy 86.36 50.8)
+			(xy 130.81 48.26) (xy 130.81 50.8)
 		)
 		(stroke
 			(width 0)
@@ -4772,16 +4772,6 @@
 	)
 	(wire
 		(pts
-			(xy 270.51 143.51) (xy 273.05 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4b2077dd-562c-42d1-a9bb-8469b35b2cc1")
-	)
-	(wire
-		(pts
 			(xy 107.95 158.75) (xy 127 158.75)
 		)
 		(stroke
@@ -4852,6 +4842,16 @@
 	)
 	(wire
 		(pts
+			(xy 261.62 143.51) (xy 261.62 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51c3256d-7a31-4b21-90a8-63443178af72")
+	)
+	(wire
+		(pts
 			(xy 227.33 149.2382) (xy 229.87 149.2382)
 		)
 		(stroke
@@ -4899,6 +4899,16 @@
 			(type default)
 		)
 		(uuid "5a3a0e0f-51fe-4fec-b033-09100bab6ddd")
+	)
+	(wire
+		(pts
+			(xy 130.81 38.1) (xy 130.81 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5abc173d-5ead-4378-9965-d32c762dc762")
 	)
 	(wire
 		(pts
@@ -5022,7 +5032,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 93.98) (xy 106.68 93.98)
+			(xy 113.03 93.98) (xy 110.49 93.98)
 		)
 		(stroke
 			(width 0)
@@ -5112,6 +5122,16 @@
 	)
 	(wire
 		(pts
+			(xy 262.89 153.67) (xy 261.62 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76703d9b-b3db-41e5-a747-e3049bbd5724")
+	)
+	(wire
+		(pts
 			(xy 24.13 81.28) (xy 24.13 83.82)
 		)
 		(stroke
@@ -5139,16 +5159,6 @@
 			(type default)
 		)
 		(uuid "77bd089d-c938-452e-96eb-3b5740feb409")
-	)
-	(wire
-		(pts
-			(xy 86.36 81.28) (xy 93.98 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "79440993-03ee-4cda-aeeb-38547435efee")
 	)
 	(wire
 		(pts
@@ -5249,26 +5259,6 @@
 			(type default)
 		)
 		(uuid "84864740-e4e1-4b33-9486-d25c2a1349ff")
-	)
-	(wire
-		(pts
-			(xy 262.89 143.51) (xy 261.62 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8547a637-fa16-4be0-a819-46e69f3ca23f")
-	)
-	(wire
-		(pts
-			(xy 81.28 38.1) (xy 86.36 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "85cc4958-1580-4a4a-b9ee-85b51c5ec4ba")
 	)
 	(wire
 		(pts
@@ -5382,7 +5372,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 38.1) (xy 93.98 38.1)
+			(xy 81.28 38.1) (xy 93.98 38.1)
 		)
 		(stroke
 			(width 0)
@@ -5392,7 +5382,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 81.28) (xy 86.36 81.28)
+			(xy 81.28 81.28) (xy 93.98 81.28)
 		)
 		(stroke
 			(width 0)
@@ -5622,6 +5612,16 @@
 	)
 	(wire
 		(pts
+			(xy 261.62 133.35) (xy 261.62 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a457be27-2670-42ce-b34f-792eba372bb8")
+	)
+	(wire
+		(pts
 			(xy 26.67 40.64) (xy 24.13 40.64)
 		)
 		(stroke
@@ -5629,16 +5629,6 @@
 			(type default)
 		)
 		(uuid "a48588bd-5e66-40e5-9b0b-f7c8508d4367")
-	)
-	(wire
-		(pts
-			(xy 86.36 81.28) (xy 86.36 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a4ad4565-364d-4f24-a694-632827ae7b71")
 	)
 	(wire
 		(pts
@@ -5702,7 +5692,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 50.8) (xy 106.68 50.8)
+			(xy 113.03 50.8) (xy 110.49 50.8)
 		)
 		(stroke
 			(width 0)
@@ -5719,6 +5709,16 @@
 			(type default)
 		)
 		(uuid "b4e6b320-dd7c-46c9-891b-9de836e203b8")
+	)
+	(wire
+		(pts
+			(xy 270.51 153.67) (xy 273.05 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b54dbfa0-b54a-4c30-bb00-efdbb47f94c5")
 	)
 	(wire
 		(pts
@@ -5892,16 +5892,6 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 133.35) (xy 261.62 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d0282397-8f0f-47ee-bb8b-ddf82a006606")
-	)
-	(wire
-		(pts
 			(xy 191.77 27.94) (xy 191.77 30.48)
 		)
 		(stroke
@@ -5929,16 +5919,6 @@
 			(type default)
 		)
 		(uuid "d196d974-b32c-4e6c-8bdc-b4bf451bdbc6")
-	)
-	(wire
-		(pts
-			(xy 273.05 143.51) (xy 273.05 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d4ecb283-6abd-4751-80bd-e23ef53a239b")
 	)
 	(wire
 		(pts
@@ -6102,7 +6082,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 50.8) (xy 106.68 57.15)
+			(xy 110.49 50.8) (xy 110.49 57.15)
 		)
 		(stroke
 			(width 0)
@@ -6152,16 +6132,6 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 133.35) (xy 264.16 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f608aefd-1181-49e6-b604-c14407737d55")
-	)
-	(wire
-		(pts
 			(xy 167.64 49.53) (xy 167.64 52.07)
 		)
 		(stroke
@@ -6172,7 +6142,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 93.98) (xy 96.52 93.98)
+			(xy 130.81 93.98) (xy 120.65 93.98)
 		)
 		(stroke
 			(width 0)
@@ -6192,7 +6162,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 91.44) (xy 86.36 93.98)
+			(xy 130.81 91.44) (xy 130.81 93.98)
 		)
 		(stroke
 			(width 0)
@@ -6229,6 +6199,16 @@
 			(type default)
 		)
 		(uuid "fda3d3c4-afee-46bd-9c87-cd2e3056d0ba")
+	)
+	(wire
+		(pts
+			(xy 261.62 133.35) (xy 264.16 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fea5d51b-5931-4ce6-938d-82087ae42449")
 	)
 	(wire
 		(pts
@@ -8497,8 +8477,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 106.68 57.15 0)
-		(mirror y)
+		(at 110.49 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8506,7 +8485,7 @@
 		(dnp no)
 		(uuid "2dde891e-090e-4594-ab39-f695c81dc753")
 		(property "Reference" "#PWR0112"
-			(at 106.68 63.5 0)
+			(at 110.49 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8515,7 +8494,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 110.998 58.166 0)
+			(at 106.172 58.166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8523,7 +8502,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 106.68 57.15 0)
+			(at 110.49 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8532,7 +8511,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 106.68 57.15 0)
+			(at 110.49 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8541,7 +8520,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 106.68 57.15 0)
+			(at 110.49 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9180,7 +9159,8 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 86.36 87.63 0)
+		(at 130.81 87.63 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9188,7 +9168,7 @@
 		(dnp no)
 		(uuid "3fd10a72-f1d9-4192-a480-e6da1c9fd2c3")
 		(property "Reference" "R103"
-			(at 89.916 89.154 0)
+			(at 127.254 89.154 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9196,7 +9176,7 @@
 			)
 		)
 		(property "Value" "1kR"
-			(at 89.662 87.122 0)
+			(at 127.508 87.122 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9204,7 +9184,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 84.582 87.63 90)
+			(at 132.588 87.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9213,7 +9193,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 86.36 87.63 0)
+			(at 130.81 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9222,7 +9202,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 86.36 87.63 0)
+			(at 130.81 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9231,7 +9211,7 @@
 			)
 		)
 		(property "Manufacturer" "YAGEO"
-			(at 86.36 87.63 0)
+			(at 130.81 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9240,7 +9220,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "RC0603FR-071KL"
-			(at 86.36 87.63 0)
+			(at 130.81 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9249,7 +9229,7 @@
 			)
 		)
 		(property "PARTREV" ""
-			(at 86.36 87.63 0)
+			(at 130.81 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9258,7 +9238,7 @@
 			)
 		)
 		(property "STANDARD" ""
-			(at 86.36 87.63 0)
+			(at 130.81 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9753,7 +9733,8 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 100.33 93.98 180)
+		(at 116.84 93.98 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9761,7 +9742,7 @@
 		(dnp no)
 		(uuid "5e6323a9-21cb-4965-ac50-66ec7af1d94b")
 		(property "Reference" "D104"
-			(at 100.33 90.678 0)
+			(at 116.84 90.678 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9769,7 +9750,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 100.076 97.028 0)
+			(at 117.094 97.028 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9777,7 +9758,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 100.33 93.98 0)
+			(at 116.84 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9786,7 +9767,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 100.33 93.98 0)
+			(at 116.84 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9795,7 +9776,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 100.33 93.98 0)
+			(at 116.84 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9804,7 +9785,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 100.33 93.98 0)
+			(at 116.84 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9813,7 +9794,7 @@
 			)
 		)
 		(property "Manufacturer" "XINGLIGHT"
-			(at 100.33 93.98 90)
+			(at 116.84 93.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9822,7 +9803,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "XL-1608SURC-06"
-			(at 100.33 93.98 90)
+			(at 116.84 93.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10371,7 +10352,8 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 86.36 44.45 0)
+		(at 130.81 44.45 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10379,7 +10361,7 @@
 		(dnp no)
 		(uuid "7e69a293-6633-43a9-8534-f16d1030c56f")
 		(property "Reference" "R101"
-			(at 89.916 45.974 0)
+			(at 127.254 45.974 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10387,7 +10369,7 @@
 			)
 		)
 		(property "Value" "1kR"
-			(at 89.662 43.942 0)
+			(at 127.508 43.942 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10395,7 +10377,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 84.582 44.45 90)
+			(at 132.588 44.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10404,7 +10386,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 86.36 44.45 0)
+			(at 130.81 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10413,7 +10395,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 86.36 44.45 0)
+			(at 130.81 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10422,7 +10404,7 @@
 			)
 		)
 		(property "Manufacturer" "YAGEO"
-			(at 86.36 44.45 0)
+			(at 130.81 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10431,7 +10413,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "RC0603FR-071KL"
-			(at 86.36 44.45 0)
+			(at 130.81 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10440,7 +10422,7 @@
 			)
 		)
 		(property "PARTREV" ""
-			(at 86.36 44.45 0)
+			(at 130.81 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10449,7 +10431,7 @@
 			)
 		)
 		(property "STANDARD" ""
-			(at 86.36 44.45 0)
+			(at 130.81 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10696,7 +10678,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 273.05 149.86 0)
+		(at 261.62 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10704,7 +10686,7 @@
 		(dnp no)
 		(uuid "9e189965-7c57-432a-b117-a5f54aa0e867")
 		(property "Reference" "R104"
-			(at 276.606 151.384 0)
+			(at 265.176 141.224 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10712,7 +10694,7 @@
 			)
 		)
 		(property "Value" "1kR"
-			(at 276.352 149.352 0)
+			(at 264.922 139.192 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10720,7 +10702,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 271.272 149.86 90)
+			(at 259.842 139.7 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10729,7 +10711,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 273.05 149.86 0)
+			(at 261.62 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10738,7 +10720,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 273.05 149.86 0)
+			(at 261.62 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10747,7 +10729,7 @@
 			)
 		)
 		(property "Manufacturer" "YAGEO"
-			(at 273.05 149.86 0)
+			(at 261.62 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10756,7 +10738,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "RC0603FR-071KL"
-			(at 273.05 149.86 0)
+			(at 261.62 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10765,7 +10747,7 @@
 			)
 		)
 		(property "PARTREV" ""
-			(at 273.05 149.86 0)
+			(at 261.62 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10774,7 +10756,7 @@
 			)
 		)
 		(property "STANDARD" ""
-			(at 273.05 149.86 0)
+			(at 261.62 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12476,8 +12458,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 106.68 100.33 0)
-		(mirror y)
+		(at 110.49 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12485,7 +12466,7 @@
 		(dnp no)
 		(uuid "df132887-89e8-4522-9742-2c63d1609b4e")
 		(property "Reference" "#PWR0119"
-			(at 106.68 106.68 0)
+			(at 110.49 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12494,7 +12475,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 110.998 101.346 0)
+			(at 106.172 101.346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12502,7 +12483,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 106.68 100.33 0)
+			(at 110.49 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12511,7 +12492,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 106.68 100.33 0)
+			(at 110.49 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12520,7 +12501,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 106.68 100.33 0)
+			(at 110.49 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12676,7 +12657,8 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 100.33 50.8 180)
+		(at 116.84 50.8 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12684,7 +12666,7 @@
 		(dnp no)
 		(uuid "e9793a54-1f80-4eb3-96ae-ece39d00b9bb")
 		(property "Reference" "D102"
-			(at 100.33 47.498 0)
+			(at 116.84 47.498 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12692,7 +12674,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 100.076 53.848 0)
+			(at 117.094 53.848 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12700,7 +12682,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 100.33 50.8 0)
+			(at 116.84 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12709,7 +12691,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 100.33 50.8 0)
+			(at 116.84 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12718,7 +12700,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 100.33 50.8 0)
+			(at 116.84 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12727,7 +12709,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 100.33 50.8 0)
+			(at 116.84 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12736,7 +12718,7 @@
 			)
 		)
 		(property "Manufacturer" "XINGLIGHT"
-			(at 100.33 50.8 90)
+			(at 116.84 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12745,7 +12727,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "XL-1608SURC-06"
-			(at 100.33 50.8 90)
+			(at 116.84 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12770,7 +12752,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 266.7 143.51 180)
+		(at 266.7 153.67 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12778,7 +12760,7 @@
 		(dnp no)
 		(uuid "f308e7c7-36e7-49ab-95da-e4005d91e8f5")
 		(property "Reference" "D105"
-			(at 265.684 138.938 0)
+			(at 265.684 149.098 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12786,7 +12768,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 265.938 140.716 0)
+			(at 265.938 150.876 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12794,7 +12776,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 266.7 143.51 0)
+			(at 266.7 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12803,7 +12785,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 266.7 143.51 0)
+			(at 266.7 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12812,7 +12794,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 266.7 143.51 0)
+			(at 266.7 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12821,7 +12803,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 266.7 143.51 0)
+			(at 266.7 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12830,7 +12812,7 @@
 			)
 		)
 		(property "Manufacturer" "XINGLIGHT"
-			(at 266.7 143.51 90)
+			(at 266.7 153.67 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12839,7 +12821,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "XL-1608SURC-06"
-			(at 266.7 143.51 90)
+			(at 266.7 153.67 90)
 			(effects
 				(font
 					(size 1.27 1.27)
