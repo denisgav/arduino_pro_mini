@@ -107,8 +107,8 @@
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
 		(tenting front back)
-		(aux_axis_origin 50 50)
-		(grid_origin 50 50)
+		(aux_axis_origin 37.5 47.75)
+		(grid_origin 37.5 47.75)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -3855,6 +3855,7 @@
 		(embedded_fonts no)
 	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
+		(locked yes)
 		(layer "B.Cu")
 		(uuid "0944ee0f-ca4e-4f92-8bcb-45714ec8c172")
 		(at 56.35 50 90)
@@ -5432,6 +5433,7 @@
 		)
 	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical"
+		(locked yes)
 		(layer "B.Cu")
 		(uuid "649ebc29-55bd-4e8b-929d-184c607b05a8")
 		(at 60.16 50 180)
@@ -8823,6 +8825,7 @@
 		)
 	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical"
+		(locked yes)
 		(layer "B.Cu")
 		(uuid "ddaa5f93-9b2c-4b48-babe-082f0d9693bf")
 		(at 39.84 50 180)
@@ -9323,16 +9326,6 @@
 		)
 	)
 	(gr_line
-		(start 38 48.2)
-		(end 50 48.2)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "2c4c8cc9-2cf5-40bd-a304-f8681ae86974")
-	)
-	(gr_line
 		(start 62 48.2)
 		(end 62 87.4)
 		(stroke
@@ -9341,6 +9334,16 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "3438ced4-f484-4892-89af-d9b127e46bf5")
+	)
+	(gr_line
+		(start 38 48.2)
+		(end 62 48.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "366301b3-3e81-4409-a08a-6be54b9c88be")
 	)
 	(gr_line
 		(start 38 87.4)
@@ -9361,16 +9364,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "8fe6920a-35c5-4e09-92f4-ea189c84c274")
-	)
-	(gr_line
-		(start 50 48.2)
-		(end 62 48.2)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "df548289-a262-48c8-b7c2-6977f4d67dff")
 	)
 	(gr_text "D13"
 		(at 58.75 86.75 90)
